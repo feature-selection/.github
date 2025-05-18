@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="?raw=true">
+  <img src="https://github.com/feature-selection/.github/blob/main/media/banner.png?raw=true">
 </p>
 
 <div align="center">
@@ -10,10 +10,9 @@
 
 <div align="center">
 
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)]()
-[![](https://img.shields.io/static/v1?label&logo=blogger&message=Blog&style=for-the-badge&color=black)]()
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=black)]()
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)]()
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](#)
+[![](https://img.shields.io/static/v1?label&logo=blogger&message=Blog&style=for-the-badge&color=black)](#)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=black)](https://www.linkedin.com/in/duongtrongchi/)
 
 </div>
 
