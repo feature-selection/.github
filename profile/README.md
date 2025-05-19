@@ -11,7 +11,7 @@
 <div align="center">
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](#)
-[![](https://img.shields.io/static/v1?label&logo=blogger&message=Blog&style=for-the-badge&color=black)](https://substack.com/@featureselection)
+[![](https://img.shields.io/static/v1?label&logo=blogger&message=Blog&style=for-the-badge&color=black)](#)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=black)](https://www.linkedin.com/in/duongtrongchi/)
 
 </div>
